@@ -1,72 +1,74 @@
 # Hi, I'm Muhammad Hafzul Haikal 👋
 
-I’m a data and systems-focused engineer with interest in modeling, simulation, control systems, and data-driven analysis. I enjoy turning complex technical problems into practical solutions through Python, numerical methods, and process engineering.
+Chemical / Process Engineer with a strong interest in process modeling, simulation, control systems, optimization, and data-driven analysis. I enjoy solving engineering problems by combining fundamentals of chemical engineering with Python-based tools, numerical methods, and process data analysis.
 
 ## About Me
 
-- 🔭 I work on projects related to process control, simulation, optimization, and analysis
-- 🧠 I’m especially interested in dynamic systems, PID/control design, and scientific computing
-- 📊 I like building tools that help analyze system behavior and support decision-making
-- 🐍 I primarily use Python for modeling, simulation, and automation workflows
-- 🚀 I’m continuously learning about systems engineering, data analysis, and software craftsmanship
+- 🔧 I focus on process engineering, control systems, and dynamic simulation
+- 🧪 My background is in chemical engineering with interest in reaction systems, process behavior, and plant operations
+- 📈 I like analyzing process performance, tuning control strategies, and improving system efficiency
+- 🐍 I use Python for modeling, simulation, optimization, and automation workflows
+- 📊 I enjoy turning process data into meaningful engineering insights
 
-## Core Skills
+## Core Expertise
 
-### Programming & Data
+### Process Engineering
+- Process modeling and simulation
+- Mass and energy balances
+- Unit operations and reactor systems
+- Process optimization
+- Operating condition analysis
+
+### Control & Systems
+- Dynamic systems analysis
+- PID and feedback control
+- Open-loop and closed-loop simulation
+- Step response analysis
+- Performance evaluation and tuning
+
+### Data & Tools
 - Python
-- MATLAB / numerical workflows
-- Data analysis with Pandas, NumPy, SciPy
-- Visualization with Matplotlib
-
-### Systems & Modeling
-- Process modeling
-- Dynamic simulation
-- Control systems
-- Step-response and performance analysis
-- Parameter tuning and optimization
-
-### Tools & Workflow
+- NumPy, Pandas, SciPy
+- Matplotlib
+- Jupyter Notebook
 - Git & GitHub
 - VS Code
-- Jupyter Notebook
-- Ruff / linting / code quality practices
 
-## Featured Projects
+## Featured Project
 
-### 1) Biodiesel Reactor Modeling & Simulation
-A study focused on dynamic modeling, control loop simulation, and performance analysis for a biodiesel reactor system.
+### Biodiesel Reactor Modeling & Simulation
+A project focused on process control, dynamic modeling, and performance analysis for a biodiesel reactor system.
 
-- Process modeling and control architecture
-- Open-loop and closed-loop simulation
-- Controller tuning and performance metrics
-- Report and plot generation for analysis
+Key work includes:
+- plant and actuator modeling
+- sensor/transmitter dynamics
+- open-loop and closed-loop simulation
+- controller tuning and performance metrics
+- automated report and plot generation
 
 Repository:
 - https://github.com/mhafzulhaikal/modeling-simulation-analysis
 
-### 2) Portfolio & Technical Profile
-This profile repository serves as my public technical footprint and a place to share projects, experiments, and learning progress.
+## What I’m Interested In
 
-## Current Focus
+- Process control and industrial automation
+- Chemical process simulation and optimization
+- Energy and reaction systems
+- Digitalization of process engineering workflows
+- Data-informed decision making for process operations
 
-- Building stronger foundations in control systems and scientific computing
-- Exploring simulations for engineering and industrial applications
-- Improving workflows for analysis, automation, and modeling
-- Developing portfolio projects that demonstrate practical engineering thinking
+## Engineering Mindset
+
+I believe good process engineering is not only about solving equations, but also about understanding system behavior, validating assumptions, and making improvements that are safe, efficient, and measurable.
+
+> “Engineering solutions should be technically sound, practically useful, and continuously improved.”
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhafzulhaikal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhafzulhaikal&show_icons=true&theme=tokyonight)
 
-## Connect With Me
+## Connect
 
 - GitHub: https://github.com/mhafzulhaikal
 - Email: mhafzulhaikal@gmail.com
 
-## Philosophy
-
-I believe good engineering is not only about writing code — it is about understanding the system, validating assumptions, and creating solutions that are measurable, reliable, and useful.
-
-> “Build systems that work, analyze them deeply, and keep learning.”
